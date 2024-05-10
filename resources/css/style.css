@@ -20,6 +20,10 @@ html {
   color: white;
 }
 
+li a {
+  list-style: none;
+}
+
 .image-container {
   overflow: hidden;
 }
